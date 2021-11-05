@@ -36,11 +36,11 @@ To use the app, click on the website link above and start sharing thoughts and p
 
 Homepage
 
-![3 14 128 253_](https://user-images.githubusercontent.com/83710803/140568274-7aaf8736-45f4-4e71-8709-1b75598c4a23.png)
+![3 14 128 253_ (1)](https://user-images.githubusercontent.com/83710803/140572190-f5695f23-640e-4c3c-ab32-6fbaadfa9a25.png)
 
 Profile page
 
-![3 14 128 253_profile_Adam](https://user-images.githubusercontent.com/83710803/140568526-7e2fd675-ebed-40f6-b4cd-1507c1bd0981.png)
+![3 14 128 253_ (2)](https://user-images.githubusercontent.com/83710803/140572146-537deef5-d86d-44c1-b9d2-df5164be14b2.png)
 
 ## Credits
 
